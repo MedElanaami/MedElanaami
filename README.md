@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Med
-- 👀 I’m interested in react & react native
+- 👀 I’m an engineer
 - 🌱 I keep learning something new.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
