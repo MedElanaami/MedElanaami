@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Med</h1>
-<h3 align="center">A computer science student</h3>
+<h3 align="center">A Cyber Security Student at ENSET Mohammedia</h3>
 
 
 <!--
